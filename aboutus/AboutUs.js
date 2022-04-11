@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import '../../../src/App.css'
 class AboutUs extends Component {
   render() {
     return (
@@ -35,13 +36,13 @@ class AboutUs extends Component {
           </div>
           
           <div className='secondly'>
-          <div className='title'>What's our committees ?</div>
+          <div className='title'>What's our commitees ?</div>
                 <ul>
-          <li>Web committee : Hold anything related to website </li>
-          <li>Design committee : Building societie's designs</li>
-          <li>Media committee : Support social media plateform</li>
-          <li> Project committee : interested in organizing projects and assigning tasks</li>
-          <li> Program committee : With the rule of organizing events</li>
+          <li>Web commitee : Hold anything related to website </li>
+          <li>Design commitee : Building societie's designs</li>
+          <li>Media commitee : Support social media plateform</li>
+          <li> Project commitee : interested in organizing projects and assigning tasks</li>
+          <li> Program commitee : With the rule of organizing events</li>
               </ul>
           </div>
           </div>
